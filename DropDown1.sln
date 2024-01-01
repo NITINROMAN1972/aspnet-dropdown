@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33919.361
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DropDown1", "DropDown1\", "{F79C5BD1-4071-493E-A516-9D77DA9A8839}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_63801"
+		Debug.AspNetCompiler.PhysicalPath = "DropDown1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63801\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_63801"
+		Release.AspNetCompiler.PhysicalPath = "DropDown1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63801\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "63801"
+		SlnRelativePath = "DropDown1\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F79C5BD1-4071-493E-A516-9D77DA9A8839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79C5BD1-4071-493E-A516-9D77DA9A8839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57CAE272-36EF-4E94-8DDB-34015EB33947}
+	EndGlobalSection
+EndGlobal
